@@ -21,7 +21,7 @@ MEDIA_DIR =  BASE_DIR / 'profile_pics'
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '4^6$w+c2eqa8g@l+c$d!(0ak9q8-n0&uu50t97+w105b#rkop_'
+#SECRET_KEY = '4^6$w+c2eqa8g@l+c$d!(0ak9q8-n0&uu50t97+w105b#rkop_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
