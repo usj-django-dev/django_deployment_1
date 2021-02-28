@@ -44,6 +44,9 @@ def user_login(request):
         return render(request,'Login_app/login.html', context={} )
 
 
+    
+    
+    
 @login_required
 def user_logout(request):
     logout(request)
