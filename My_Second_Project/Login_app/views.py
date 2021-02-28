@@ -16,6 +16,7 @@ from django.contrib.auth.models import User
 
 
 
+
 def login_page(request):
     return render(request, 'Login_app/login.html',context={})
 
