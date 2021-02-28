@@ -70,6 +70,8 @@ def index(request):
     return render(request,'Login_app/index.html', context=dict)
 
 
+
+
 # def index(request):
 #     dict={}
 #     if request.user.is_authenticated:
